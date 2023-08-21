@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Nicolas-Scapolan&color=006bed)
-
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
