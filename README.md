@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Jogos Digitais** na <a href="([http://www.fatecsaocaetano.edu.br/)]">Fatec São Caetano do Sul</a>.
+- 🎓 Estudando **Jogos Digitais** na <a href=(http://www.fatecsaocaetano.edu.br/)>Fatec São Caetano do Sul</a>.
 - 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
